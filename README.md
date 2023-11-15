@@ -1,5 +1,7 @@
 # MySQL-Project
 
+## Part 1
+
 ![image](https://github.com/ChenJustIT/MySQL-Project/assets/150026038/7b1df690-3f8a-4149-8e4c-f97e0e8d844d)
 
 ![image](https://github.com/ChenJustIT/MySQL-Project/assets/150026038/48f47715-e4bb-46d0-be9a-108e2b4bbd88)
@@ -8,7 +10,7 @@
 
 ![image](https://github.com/ChenJustIT/MySQL-Project/assets/150026038/63373b15-037e-433c-9360-05635db002c8)
 
-# Part 1
+
 
 ##  Task 1
 •	Using the Query 2 you created change the points to reads times by 10 and plus 100.  
@@ -158,21 +160,30 @@ where birth_date>'1990-01-01';
 
 ![image](https://github.com/ChenJustIT/MySQL-Project/assets/150026038/54d46187-e698-4962-9013-0d22044e4b91)
 
+## Create EER Diagram
+
 ![image](https://github.com/ChenJustIT/MySQL-Project/assets/150026038/ceb3dd10-c2c6-4646-bc22-e0cf66dcbc1b)
 
 
 
 •	Identify the primary key in country table.
+
 **Code**
 
 •	Identify the primary key in city table.
+
 **ID**
 
 •	Identify the primary key in countrylanguage table.
+
 Composite PK: **CountryCode and Language**
 
 •	Identify the foreign key in city table.
+
 **CountryCode**
 
 •  Identify the foreign key in countrylanguage table.
+
 **CountryCode**
+
+### --END
