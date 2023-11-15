@@ -1,5 +1,12 @@
 # MySQL-Project
 
+![image](https://github.com/ChenJustIT/MySQL-Project/assets/150026038/7b1df690-3f8a-4149-8e4c-f97e0e8d844d)
+
+![image](https://github.com/ChenJustIT/MySQL-Project/assets/150026038/48f47715-e4bb-46d0-be9a-108e2b4bbd88)
+
+![image](https://github.com/ChenJustIT/MySQL-Project/assets/150026038/7f420af9-06bb-4633-8816-618d384f1a46)
+
+![image](https://github.com/ChenJustIT/MySQL-Project/assets/150026038/63373b15-037e-433c-9360-05635db002c8)
 
 # Part 1
 
@@ -69,14 +76,40 @@ where birth_date>'1990-01-01';
 ![image](https://github.com/ChenJustIT/MySQL-Project/assets/150026038/a9387af6-af64-40c0-8bbd-9bac863f42ea)
 
  
-**EER Diagram**
- 
+## Create EER Diagram
+
+![image](https://github.com/ChenJustIT/MySQL-Project/assets/150026038/f5317997-7f90-4519-86ee-4e23b65b1016)
+
+![image](https://github.com/ChenJustIT/MySQL-Project/assets/150026038/fa1fc196-6350-4bb2-887a-6ab38edd448f)
+
+![image](https://github.com/ChenJustIT/MySQL-Project/assets/150026038/5fc8d438-9202-409b-8f35-b6787a5fe423)
+
+![image](https://github.com/ChenJustIT/MySQL-Project/assets/150026038/36ccd474-02cb-4ef0-a030-64c29f691b2a)
+
+![image](https://github.com/ChenJustIT/MySQL-Project/assets/150026038/40d1cf3e-f180-4b52-8e0d-c1fb77c2a113)
+
+### The EER Diagram should look like this.
+
 ![image](https://github.com/ChenJustIT/MySQL-Project/assets/150026038/e558378f-926d-4bbf-bfbf-59454591e8f6)
- 
+
+### Write about the relationship between tables. Primary and Foreign keys.  (Few words about tables)
+
 ![image](https://github.com/ChenJustIT/MySQL-Project/assets/150026038/42f445db-d998-4803-9824-a80dee4e8fc6)
 
 
 # Part 2
+
+![image](https://github.com/ChenJustIT/MySQL-Project/assets/150026038/d1be4972-7966-4463-82ee-fbcdefd04043)
+
+![image](https://github.com/ChenJustIT/MySQL-Project/assets/150026038/93c4e5d6-ed4f-4f97-b8db-68dce99a6d6f)
+
+![image](https://github.com/ChenJustIT/MySQL-Project/assets/150026038/092f0d66-f08f-49ac-a172-3e363b58ad12)
+
+![image](https://github.com/ChenJustIT/MySQL-Project/assets/150026038/9bdaa831-35d8-4cc1-96d8-e3b4479f7f67)
+
+![image](https://github.com/ChenJustIT/MySQL-Project/assets/150026038/83a5ebdc-368f-4824-bd01-71fab33bdb77)
+
+
 ##  Task 1
  
 ![image](https://github.com/ChenJustIT/MySQL-Project/assets/150026038/9a5a0e5f-ec79-43ac-8c7d-816a7f8c6d0f)
